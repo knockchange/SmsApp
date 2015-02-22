@@ -29,8 +29,8 @@ public class FirstSample {
     {
         //SentenceDetect();
         //Tokenize();
-        findName();
-        //POSTag();
+        //findName();
+        POSTag();
     }
  
     public static void SentenceDetect() throws InvalidFormatException,

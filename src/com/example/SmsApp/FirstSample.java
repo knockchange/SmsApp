@@ -32,7 +32,7 @@ public class FirstSample {
         //findName();
         POSTag();
     }
-
+ 
     public static void SentenceDetect() throws InvalidFormatException,
             IOException
     {

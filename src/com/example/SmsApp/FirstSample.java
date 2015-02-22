@@ -30,7 +30,7 @@ public class FirstSample {
         //SentenceDetect();
         //Tokenize();
         //findName();
-        POSTag();
+        POSTag(); 
     }
  
     public static void SentenceDetect() throws InvalidFormatException,
